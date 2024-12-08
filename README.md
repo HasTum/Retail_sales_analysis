@@ -1,6 +1,6 @@
 # Retail Sales Analysis
 
-This project is a comprehensive analysis of retail sales data aimed at understanding fluctuations in client sales performance, customer demographics, and purchasing behavior. The analysis was conducted using Python and SQL, and it forms part of the Machine Learning and Data Science course at Armenian Code Academy.
+This project is a comprehensive analysis of retail sales data aimed at understanding fluctuations in client sales performance, customer demographics, and purchasing behavior.
 
 ## Table of Contents
 
